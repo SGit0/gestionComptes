@@ -23,5 +23,6 @@ System.out.println("Somme retirée 1 :" + cpt.getSommeRetraits());
 cpt.retraitDe(60);
 System.out.println("Somme retirée 2 :" + cpt.getSommeRetraits());
 System.out.println("solde " + cpt.getSolde());
+System.out.println(" Truc sans intérêt");
 }
 }
